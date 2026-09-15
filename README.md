@@ -33,6 +33,3 @@ Right now I'm spending more time on backend architecture than I used to.
   <img src="https://github-readme-stats.shion.dev/api?username=AhhadQamar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhhadQamar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="165"/>
 </div>
-
-Output
-written
